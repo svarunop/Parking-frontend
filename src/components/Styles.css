@@ -1,0 +1,30 @@
+/* Orange Section */
+.orange-section {
+    background-color: #2b2828;
+    
+  }
+  
+  .orange-section .icon {
+    color: white;
+
+  }
+  
+  /* White Section */
+  .white-section h2 {
+    font-weight: bold;
+  }
+  
+  .text-orange {
+    color: #ff5722;
+  }
+  
+
+  .equal-size {
+    width: 100%;
+    height: 200px; 
+    object-fit: cover;
+  }
+
+  .App{
+    background-color: #1e1c1c;
+  }
